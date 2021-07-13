@@ -5,7 +5,7 @@ _Software Engineer based in Cape Town, South Africa_
 
 **Software Engineer** @ Equal Experts _(Oct 2020 - Present)_ <br>
 
-**Software Engineer** @ CloudOne.mobi _(Dec 2019 - Sep 2020)_ <br><br>
+**Software Engineer** @ CloudOne.mobi _(Dec 2019 - Sep 2020)_ <br>
 I worked on a cloud-based POS (Point of Sale) system where I built and maintained microservices (as AWS Lambda functions) responsible for "Payment Method" integrations. Additional to development, I was actively involved in the entire SDLC. The primary language used was Golang.
 <br>
 
